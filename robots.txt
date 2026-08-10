@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-vyvodom-na-kartu-tinkoff-ddfd4.github.io
+Sitemap: https://kazino-s-vyvodom-na-kartu-tinkoff-ddfd4.github.io/sitemap.xml
